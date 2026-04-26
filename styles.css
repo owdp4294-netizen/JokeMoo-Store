@@ -363,7 +363,7 @@ main {
     max-width: 100%; width: 100%;
     border-radius: 24px 24px 0 0;
     padding: 20px 18px 24px;
-    max-height: 0vh;
+    max-height: 85vh;
     overflow-y: auto;
     margin: 0;
     transform: none !important; /* ยกเลิก slideUp เล็กน้อยเพื่อไม่ให้ชนขอบ */
